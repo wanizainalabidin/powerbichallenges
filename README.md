@@ -29,4 +29,13 @@ From the above, let's investigate UK a bit further to tease out any interesting 
 1) UK had a total of 2bn cases during the 1 year period
 2) UK had 136 million death with only 1M recovered.
 3) The proportion of confirmed cases to death is significantly higher compared to confirmed to recovered
-4) 
+![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/CHALLENGE%2011%20UK.png)
+
+Now, let's look at France: 
+
+1) While France had the highest number of confirmed cases, France has a higher proportion of recovered cases compared to UK 
+2) Still, France's confirmed cases continued to grow at a much higher rate than the number of recovered cases 
+![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/CHALLENGE%2011%20-%20FRANCE.png)
+
+
+
