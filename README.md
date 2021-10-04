@@ -35,6 +35,6 @@ Now, let's look at France:
 
 1) While France had the highest number of confirmed cases, France has a higher proportion of recovered cases compared to UK 
 2) Still, France's confirmed cases continued to grow at a much higher rate than the number of recovered cases 
-![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/CHALLENGE%2011%20-%20FRANCE.png)
+![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/covid19-case-study/images/CHALLENGE%2011%20-%20FRANCE.png)
 
 
