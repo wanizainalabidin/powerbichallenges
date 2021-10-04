@@ -13,7 +13,7 @@ Import and create a data model
 Create a 1 page report of what the current situation is.
 
 Based on the following information, I have created a one-page, high-level analysis of the important statistics to meet the above objectives. 
-![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/image.png)
+![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/covid19-case-study/images/CHALLENGE%2011%20UK.png)
 
 Based on the screenshot above, the following are some of my analyses: 
 
