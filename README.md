@@ -38,4 +38,3 @@ Now, let's look at France:
 ![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/CHALLENGE%2011%20-%20FRANCE.png)
 
 
-
