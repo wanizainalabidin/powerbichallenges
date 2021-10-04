@@ -29,7 +29,7 @@ From the above, let's investigate UK a bit further to tease out any interesting 
 1) UK had a total of 2bn cases during the 1 year period
 2) UK had 136 million death with only 1M recovered.
 3) The proportion of confirmed cases to death is significantly higher compared to confirmed to recovered
-![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/CHALLENGE%2011%20UK.png)
+![alt text](https://github.com/wanizainalabidin/powerbichallenges/blob/main/covid19-case-study/images/CHALLENGE%2011%20UK.png)
 
 Now, let's look at France: 
 
